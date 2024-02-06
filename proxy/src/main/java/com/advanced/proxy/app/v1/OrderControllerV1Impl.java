@@ -10,7 +10,6 @@ public class OrderControllerV1Impl implements OrderControllerV1 {
 
     @Override
     public String request(String itemId) {
-        System.out.println(" = ?????????");
         orderService.orderItem(itemId);
         return "ok";
     }
