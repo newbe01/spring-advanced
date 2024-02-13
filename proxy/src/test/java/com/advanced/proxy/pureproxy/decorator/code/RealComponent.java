@@ -7,7 +7,7 @@ public class RealComponent implements Component {
 
     @Override
     public String operation() {
-        log.info("call component");
+        log.info("call realComponent");
         return "data";
     }
 }
