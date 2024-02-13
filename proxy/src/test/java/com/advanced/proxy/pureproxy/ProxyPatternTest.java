@@ -1,5 +1,8 @@
-package com.advanced.proxy.proxypattern;
+package com.advanced.proxy.pureproxy;
 
+import com.advanced.proxy.pureproxy.proxy.code.CacheProxy;
+import com.advanced.proxy.pureproxy.proxy.code.ProxyPatternClient;
+import com.advanced.proxy.pureproxy.proxy.code.RealSubject;
 import org.junit.jupiter.api.Test;
 
 public class ProxyPatternTest {

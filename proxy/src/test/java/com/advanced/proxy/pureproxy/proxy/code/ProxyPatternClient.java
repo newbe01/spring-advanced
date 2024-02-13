@@ -1,4 +1,4 @@
-package com.advanced.proxy.proxypattern;
+package com.advanced.proxy.pureproxy.proxy.code;
 
 public class ProxyPatternClient {
 
