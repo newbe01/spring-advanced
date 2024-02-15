@@ -1,4 +1,4 @@
-package com.advanced.proxy.config.v1_proxy.interface_proxy;
+package com.advanced.proxy.config.v2_dynamicproxy;
 
 import com.advanced.proxy.app.v1.*;
 import com.advanced.proxy.config.v2_dynamicproxy.handler.LogTraceBasicHandler;
